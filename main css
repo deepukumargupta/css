@@ -1,0 +1,9 @@
+1. text wrap --> 
+.d {
+white-space: nowrap; 
+width: 100px; 
+overflow: hidden;
+text-overflow: "----"; 
+}
+
+2.
